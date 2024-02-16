@@ -1,6 +1,6 @@
 # Snowflake Scripting
 
-Snowflake Scripting for stored procedures and functions.
+Snowflake Scripting guide for stored procedures and functions.
 
 ## References:
 
